@@ -1,0 +1,14 @@
+---
+title: Արխիտեկտոնիկա
+subtitle: Արխիտեկտոնիկայի ներածական ձեռնարկ
+author: Վահագն Պողոսյան
+mainfont: Mardoto
+mainfontoptions:
+- UprightFont=*
+- BoldFont=*-Bold
+- ItalicFont=*-Italic
+- BoldItalicFont=*-BoldItalic
+header-includes:
+  \renewcommand{\contentsname}{Բովանդակություն}
+...
+---
